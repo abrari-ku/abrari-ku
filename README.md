@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello! My name is Abrari. I'm a final-year PhD student (as this profile created in June 2025)  in the Mathematics Department at Khalifa University. My research delves into the fascinating world of Rogue Wave Modelling, focusing on numerical simulation, stability, and data-driven approaches. While I have a background in coding, I'm now committed to mastering GitHub to efficiently manage my research projects and openly share my code with the wider community. I'm eager to build a comprehensive public portfolio of my work.
+
 <!--
 **abrari-ku/abrari-ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
